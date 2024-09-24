@@ -6,6 +6,18 @@
   padding: 10px;               
 }
 
+.article-box {
+  border: 1px solid #ccc;  
+  padding: 15px;           
+  margin-bottom: 10px;     
+  background-color: #f9f9f9; 
+}
+
+.article-box p {
+  font-weight: bold;       
+  margin-top: 10px;  
+}
+
 
 .article {
   flex: 1 1 calc(33.333% - 20px); 
